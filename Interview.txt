@@ -1,0 +1,35 @@
+
+class login:
+	def __init(self):
+	def browser(self)	
+		driver = webdriver.Chrome()
+		driver.maximizewindow()
+		driver.implecitewait(5)
+		driver.get("url")
+	def login(self):
+		driver.findelement(By.XPATH,"//input").sendkeys("uid")
+		driver.findelement(By.xpath,"//").sendkey("pwd")
+		driver.findelement(By.CSS,"").click
+		return driver
+
+select employe_name from employe
+where salary > (select avg(salary) from employee)
+
+
+loagin_page = login()
+login_page.browser()
+lgoin.page.login
+
+import requests 
+
+api_test = request.get("Endpoint")
+
+class login_enans(login)
+	
+	def asser_titile(self)
+		resturn self.driver.title == 'title of the page'
+
+abc = lgin_enans()
+abc 
+			
+driver.findelement(By.XPTH,"//input[@Id"
